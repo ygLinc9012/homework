@@ -58,3 +58,6 @@ C:\Users\user\Documents\GitHub\homework\期中作業\3.Web範例\Models\Web.Test
 C:\Users\user\Documents\GitHub\homework\期中作業\3.Web範例\Models\Web.Tests\obj\Debug\Web.Tests.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\GitHub\homework\期中作業\3.Web範例\Models\Web.Tests\obj\Debug\Web.Tests.dll
 C:\Users\user\Documents\GitHub\homework\期中作業\3.Web範例\Models\Web.Tests\obj\Debug\Web.Tests.pdb
+C:\Users\user\Desktop\Models\Web.Tests\obj\Debug\Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Models\Web.Tests\obj\Debug\Web.Tests.dll
+C:\Users\user\Desktop\Models\Web.Tests\obj\Debug\Web.Tests.pdb

@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace YingG.ConsoleApp
 {
     class Program
@@ -12,13 +11,10 @@ namespace YingG.ConsoleApp
         static void Main(string[] args)
         {
             var import = new YingG.Services.ImportServices();
-            var stations = import.FindStations();
+            var reservoirs = import.FindStations();
 
-            var db = new YingG.Repository.WaterRepository();
-            stations.ToList().ForEach(station =>
-            {
-                db.AddProduct(station);
-            });
+            var db = new YingG.Repository.ReserovirRepository();
+            db.AddReserovirData(reservoirs);
 
         }
     }

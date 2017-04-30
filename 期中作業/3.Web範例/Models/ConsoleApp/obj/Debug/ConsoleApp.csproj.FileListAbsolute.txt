@@ -1,13 +1,3 @@
-C:\Users\user\Desktop\Models\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\Models\ConsoleApp\bin\Debug\ConsoleApp.exe.config
-C:\Users\user\Desktop\Models\ConsoleApp\bin\Debug\ConsoleApp.exe
-C:\Users\user\Desktop\Models\ConsoleApp\bin\Debug\ConsoleApp.pdb
-C:\Users\user\Desktop\Models\ConsoleApp\bin\Debug\Models.dll
-C:\Users\user\Desktop\Models\ConsoleApp\bin\Debug\Models.pdb
-C:\Users\user\Desktop\Models\ConsoleApp\obj\Debug\ConsoleApp.exe
-C:\Users\user\Desktop\Models\ConsoleApp\obj\Debug\ConsoleApp.pdb
-C:\Users\user\Desktop\Models\ConsoleApp\bin\Debug\App_Data\water.mdf
-C:\Users\user\Desktop\Models\ConsoleApp\bin\Debug\App_Data\water_log.ldf
 C:\Users\user\Documents\GitHub\homework\期中作業\3.Web範例\Models\ConsoleApp\bin\Debug\App_Data\water.mdf
 C:\Users\user\Documents\GitHub\homework\期中作業\3.Web範例\Models\ConsoleApp\bin\Debug\App_Data\water_log.ldf
 C:\Users\user\Documents\GitHub\homework\期中作業\3.Web範例\Models\ConsoleApp\bin\Debug\ConsoleApp.exe.config
@@ -18,3 +8,11 @@ C:\Users\user\Documents\GitHub\homework\期中作業\3.Web範例\Models\ConsoleA
 C:\Users\user\Documents\GitHub\homework\期中作業\3.Web範例\Models\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\GitHub\homework\期中作業\3.Web範例\Models\ConsoleApp\obj\Debug\ConsoleApp.exe
 C:\Users\user\Documents\GitHub\homework\期中作業\3.Web範例\Models\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\user\Desktop\Models\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Models\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\user\Desktop\Models\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\user\Desktop\Models\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\user\Desktop\Models\ConsoleApp\bin\Debug\Models.dll
+C:\Users\user\Desktop\Models\ConsoleApp\bin\Debug\Models.pdb
+C:\Users\user\Desktop\Models\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\user\Desktop\Models\ConsoleApp\obj\Debug\ConsoleApp.pdb
