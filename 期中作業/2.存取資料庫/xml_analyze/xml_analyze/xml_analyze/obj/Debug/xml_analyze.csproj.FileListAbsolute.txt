@@ -25,6 +25,29 @@ C:\Users\user\Documents\GitHub\xml_analyze\xml_analyze\xml_analyze\bin\Debug\Ent
 C:\Users\user\Documents\GitHub\xml_analyze\xml_analyze\xml_analyze\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\user\Documents\GitHub\xml_analyze\xml_analyze\xml_analyze\obj\Debug\xml_analyze.exe
 C:\Users\user\Documents\GitHub\xml_analyze\xml_analyze\xml_analyze\obj\Debug\xml_analyze.pdb
+C:\Users\user\Documents\GitHub\homework\1.解析XML\xml_analyze\xml_analyze\xml_analyze\bin\Debug\xml_analyze.exe.config
+C:\Users\user\Documents\GitHub\homework\1.解析XML\xml_analyze\xml_analyze\xml_analyze\obj\Debug\xml_analyze.exe
+C:\Users\user\Documents\GitHub\homework\1.解析XML\xml_analyze\xml_analyze\xml_analyze\obj\Debug\xml_analyze.pdb
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze - 複製\xml_analyze\xml_analyze\bin\Debug\xml_analyze.exe.config
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze - 複製\xml_analyze\xml_analyze\obj\Debug\xml_analyze.exe
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze - 複製\xml_analyze\xml_analyze\obj\Debug\xml_analyze.pdb
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze - 複製\xml_analyze\xml_analyze\obj\Debug\xml_analyze.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze - 複製\xml_analyze\xml_analyze\bin\Debug\xml_analyze.exe
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze - 複製\xml_analyze\xml_analyze\bin\Debug\xml_analyze.pdb
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze - 複製\xml_analyze\xml_analyze\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze - 複製\xml_analyze\xml_analyze\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze - 複製\xml_analyze\xml_analyze\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze - 複製\xml_analyze\xml_analyze\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze\xml_analyze\xml_analyze\bin\Debug\xml_analyze.exe.config
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze\xml_analyze\xml_analyze\obj\Debug\xml_analyze.exe
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze\xml_analyze\xml_analyze\obj\Debug\xml_analyze.pdb
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze\xml_analyze\xml_analyze\bin\Debug\xml_analyze.exe
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze\xml_analyze\xml_analyze\bin\Debug\xml_analyze.pdb
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze\xml_analyze\xml_analyze\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze\xml_analyze\xml_analyze\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze\xml_analyze\xml_analyze\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze\xml_analyze\xml_analyze\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze\xml_analyze\xml_analyze\obj\Debug\xml_analyze.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\GitHub\homework\期中作業\2.存取資料庫\xml_analyze\xml_analyze\xml_analyze\bin\Debug\xml_analyze.exe.config
 C:\Users\user\Documents\GitHub\homework\期中作業\2.存取資料庫\xml_analyze\xml_analyze\xml_analyze\obj\Debug\xml_analyze.exe
 C:\Users\user\Documents\GitHub\homework\期中作業\2.存取資料庫\xml_analyze\xml_analyze\xml_analyze\obj\Debug\xml_analyze.pdb

@@ -22,7 +22,7 @@ namespace xml_analyze
         public static List<Reservoir> FindStations()
         {
             XmlDocument XmlDoc = new XmlDocument();
-            XmlDoc.Load(@"C:\Users\user\Documents\GitHub\homework\期中作業\1.解析XML\xml_analyze\xml_analyze\reserovir.xml");//isbn.xml  河川水位.xml
+            XmlDoc.Load(@"C:\Users\user\Desktop\reserovir.xml");//isbn.xml  河川水位.xml
             //C:\Users\user\Documents\GitHub\xml_analyze\xml_analyze\2016temperature.xml
 
             XmlNamespaceManager nsmanager = new XmlNamespaceManager(XmlDoc.NameTable);
