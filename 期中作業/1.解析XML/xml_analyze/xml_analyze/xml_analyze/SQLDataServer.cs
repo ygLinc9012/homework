@@ -12,9 +12,9 @@ namespace xml_analyze
             String connectString= @"Data Source=(LocalDb)\v11.0;Initial Catalog=water;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             return connectString;
         }
-        public List<Station> GetProduct()
+        public List<Reservoir> GetProduct()
         {
-            var result = new List<Station>();
+            var result = new List<Reservoir>();
             var connectString = @"Data Source=(LocalDb)\v11.0;Initial Catalog=water;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             //Catalog是要看你SQL內部的資料庫名稱決定
             //不加@的話，  \會被判斷成指令  就像是想要印出\的話必須打成\\   加上@則只需打一個
@@ -42,9 +42,9 @@ namespace xml_analyze
             connx.Close();
             return result;
         }
-        public void AddProduct(List<Station> stationList)
+        public void AddReserovirData(List<Reservoir> reserovirList)
         {
-            var connectString = @"Data Source=(LocalDb)\v11.0;Initial Catalog=water;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            var connectString = @"Data Source=(LocalDb)\v11.0;Initial Catalog=reserovir;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             //Catalog是要看你SQL內部的資料庫名稱決定
             //不加@的話，  \會被判斷成指令  就像是想要印出\的話必須打成\\   加上@則只需打一個
             //另一種方式System.Configuration.ConfigurationManager.ConnectionStrings["DatabaseConnect"].ConnectionString;
@@ -54,15 +54,18 @@ namespace xml_analyze
             System.Data.SqlClient.SqlCommand comm = new System.Data.SqlClient.SqlCommand();
             comm.Connection = connx;
 
-            stationList.ToList().ForEach(station=> {
+            reserovirList.ToList().ForEach(reserovir => {
                 comm.CommandText = string.Format(@"
-INSERT INTO [Stations]
-    ([LocationAddress]
-    ,[ObservatoryName]
-    ,[ElevationOfWaterLevelZeroPoint])
+INSERT INTO [data]
+    ([siteName]
+    ,[damName]
+    ,[county]
+    ,[sampleDate]
+    ,[itemName]
+    ,[itemValue])
 VALUES
-    (N'{0}',N'{1}',N'{2}')",
-station.LocationAddress, station.ObservatoryName, station.ElevationOfWaterLevelZeroPoint);
+    (N'{0}',N'{1}',N'{2}',N'{3}',N'{4}',N'{5}')",
+reserovir.siteName, reserovir.damName, reserovir.county, reserovir.sampleDate, reserovir.itemName, reserovir.itemValue);
                 comm.ExecuteNonQuery();//繳交指令，寫在foreach外會只繳交一次
             });
             
